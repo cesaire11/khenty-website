@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": "KHT-001",
+      "name": "T-shirt Signature",
+      "collection": "KHENTY Fashion",
+      "color": "Ivoire",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-tshirt-ivoire.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    },
+    {
+      "id": "KHT-002",
+      "name": "Polo Signature",
+      "collection": "KHENTY Prestige",
+      "color": "Noir",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-polo-noir.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    },
+    {
+      "id": "KHT-003",
+      "name": "Casquette Signature",
+      "collection": "Accessoires",
+      "color": "Noir",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-casquette-noire.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    },
+    {
+      "id": "KHT-004",
+      "name": "Cabas Signature",
+      "collection": "Accessoires",
+      "color": "Ivoire / noir",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-cabas-ivoire.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    },
+    {
+      "id": "KHT-005",
+      "name": "Sweat Signature",
+      "collection": "KHENTY Fashion",
+      "color": "Ivoire",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-sweat-ivoire.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    },
+    {
+      "id": "KHT-006",
+      "name": "Pantalon Détente",
+      "collection": "KHENTY Fashion",
+      "color": "Noir",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-jogger-noir.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    },
+    {
+      "id": "KHT-007",
+      "name": "Sac à dos Urbain",
+      "collection": "Accessoires",
+      "color": "Noir",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-sac-a-dos-noir.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    },
+    {
+      "id": "KHT-008",
+      "name": "Pochette Essentielle",
+      "collection": "Accessoires",
+      "color": "Ivoire / noir",
+      "description": "Concept de collection KHENTY. Visuel généré, fabrication et logo à valider sur échantillon.",
+      "image": "/assets/khenty-pochette-ivoire.jpg",
+      "status": "concept",
+      "xaf": null,
+      "sar": null,
+      "stock_mode": "unconfirmed",
+      "stock": 0
+    }
+  ],
+  "checkout_enabled": false
+}
